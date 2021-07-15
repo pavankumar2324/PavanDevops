@@ -2,7 +2,7 @@
 Devopslearning started in july
 CI testing 
 retesting CI
-non working commmit
+working commmit
 1. Login via SSH
 First of all login to your Ubuntu 16.04 VPS via SSH as user root
 
